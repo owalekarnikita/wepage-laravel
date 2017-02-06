@@ -15,7 +15,7 @@ body
     padding-top: 10px;
         display: block;
     margin: 0;
-    background: url(/assets/img/cloud-bar.png) repeat-x #fff;
+   /* background: url(/assets/img/cloud-bar.png) repeat-x #fff;*/
 }
 .h1
 {
@@ -83,10 +83,18 @@ h1, h2, h3, h4, p strong
 }
 .h1
 {
-	font-size: 48px;
+ 	font-size: 48px;
 	font-weight: 200;
 	margin: 0 0 20px;
 	display: block;
+	font-family: 'Raleway', sans-serif !important;
+	font-family: 'Quicksand', sans-serif !important;
+	font-family: 'Exo', sans-serif !important;
+	font-family: 'Libre Franklin', sans-serif !important;
+	color: #525252;
+	-webkit-margin-start: 0px;
+	-webkit-margin-end: 0px;
+	padding: 20px;
 }
 .p
 {
@@ -255,4 +263,8 @@ option.select-hr
     color: #e74430;
     font-size: 17px;
     line-height: 55px;
+}
+.marg
+{
+	margin-bottom: -15px;
 }
