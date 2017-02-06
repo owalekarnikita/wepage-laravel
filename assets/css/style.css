@@ -45,17 +45,7 @@ laravel-179fc1a6e3.css:1
 {
 	color: red;
 }
-h1
-{
-	font-size: 40px;
-	font-weight: 200;
-	margin: .67em 0;
-	display: block;
-	-webkit-margin-before: 0.83em;
-    -webkit-margin-after: 0.83em;
-    color: #525252;
 
-}
 h1, h2, h3, h4, p strong
 {
 	-webkit-font-smoothing: antialised;
@@ -94,7 +84,7 @@ h1, h2, h3, h4, p strong
 	color: #525252;
 	-webkit-margin-start: 0px;
 	-webkit-margin-end: 0px;
-	padding: 30px;
+	padding: 32px;
 }
 .p
 {
