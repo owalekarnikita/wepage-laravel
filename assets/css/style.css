@@ -83,7 +83,7 @@ h1, h2, h3, h4, p strong
 }
 .h1
 {
- 	font-size: 48px;
+ 	font-size: 42px;
 	font-weight: 200;
 	margin: 0 0 20px;
 	display: block;
@@ -94,7 +94,7 @@ h1, h2, h3, h4, p strong
 	color: #525252;
 	-webkit-margin-start: 0px;
 	-webkit-margin-end: 0px;
-	padding: 20px;
+	padding: 30px;
 }
 .p
 {
