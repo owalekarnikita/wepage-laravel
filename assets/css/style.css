@@ -275,8 +275,15 @@ input
 }
 .font
 {
-	font-family: "Miriam Libre","Source Sans Pro",sans-serif !important;
-	color: #525252;
+	font-family: 'Roboto', sans-serif !important;
+	font-family: 'Open Sans', sans-serif !important;
+	color: black;
+    letter-spacing: .02em;
+	-webkit-font-smoothing: antialised;
+	font-size: 15px;
+	text-shadow: 5px;
+	padding: 20px;
+	padding-left: 30px;
 }
 @media (max-width: 1160px)
 laravel-179fc1a6e3.css:1
@@ -309,4 +316,25 @@ p{
 }
 .ppp{
 	font-family: 'Shanti', sans-serif;
+}
+.mer{
+	margin-left: -35px;
+	font-size: 14px !important;
+	font-family: 'Roboto', sans-serif !important;
+}
+.re{
+	background-color: #f4645f; 
+	 padding: 10px;
+}
+.phph
+{
+	color: #afafaf;
+	font-size: 14px;
+	letter-spacing: -.02em;
+	-webkit-font-smoothing: antialised;
+	font-family: "Miriam Libre","Source Sans Pro",sans-serif;
+}
+.how{
+	font-family: 'Varela Round', sans-serif;
+	font-weight: bold;
 }
